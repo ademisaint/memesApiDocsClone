@@ -14,13 +14,13 @@ externalDocs:
   description: See stoplight version
   url: https://saintdev.stoplight.io/docs/saintdev/branches/main/efh99v288av4f-meme-maker-api
 servers:
-  - url: http://alpha-meme-maker.herokuapp.com
+  - url: https://alpha-meme-maker.herokuapp.com
 tags:
   - name: memes
     description: Everything about memes
     externalDocs:
       description: Find out more
-      url: http://alpha-meme-maker.herokuapp.com
+      url: https://alpha-meme-maker.herokuapp.com
 paths:
   /:page/:
     get:
